@@ -1,5 +1,5 @@
 # Predicting-the-Phishing-Website
-The objective is to identify whether a website is a Phishing website one or not.
+The objective is to identify whether a website is a Phishing website one or not.This code written in python(using jupyter notebbok).
 
 Algorithm used and Accuracy Results:
 #1) Logistic regression(0.93)
@@ -9,7 +9,7 @@ Algorithm used and Accuracy Results:
 So,By using the RandomForestClassifier,we got the best optimised model with a score of 0.97. so it can be used as a model to detect whether the webiste is phishy or not. 
 
 
-Steps typically involved in this project
+Steps typically involved in this project:
 
 1)Feature Extraction: Extracted file of format .CSV
 
